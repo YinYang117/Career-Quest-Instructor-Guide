@@ -2,36 +2,31 @@
 
 ## Read This First
 
-This guide follows kiss: Keep it stupid simple
-Spend the time reading this and you'll be set to take over Career Quest
+This guide follows kiss: Keep it stupid simple.
 
-## Slack Resources
+Spend the time reading this and you'll be set to take over Career Quest.
 
-### Canva
+## Slack
 
-This isn't canvas. This is a feature in slack in the sidebar
+### [Canva](https://app-academy-internal.slack.com/canvas/C05RRSRNEAH)
 
-A link to this:
-https://github.com/appacademy/pt-section-3-resources
+This isn't canvas. This is a feature in slack in the sidebar.
 
-Resources and Links
+## Resources and Links
 
-Instruction Resources:
+### Instruction Resources:
 
-* PT Instructor Notes Repo 
-https://github.com/appacademy/pt-instructor-notes
-* Student Facing Repo 
-https://github.com/appacademy/pt-section-3-resources
+* [PT Instructor Notes Github Repo](https://github.com/appacademy/pt-instructor-notes)
+* [Student Facing Repo](https://github.com/appacademy/pt-section-3-resources)
 
-Project Resources:
+### Project Resources:
+#### AppAcademy Requirements:
 
-Company Requirements:
-
-* How to enter Project Grades on SF
-* Project Scorecards Company Shared Drive
-* How to Make Company Shared Drive Scorecards
-* Individual Student Scorecard Template
-* https://github.com/crespohector/welcome-to-mod-7
+* [How to enter Project Grades on SF](https://docs.google.com/document/d/1O74_fH-92OZmfgv05EblcVxhm6sQUmYWi_FZ9PVBlZI/edit#bookmark=id.3v6779ydhllm)
+* [Project Scorecards Company Shared Drive](https://drive.google.com/drive/folders/0ALij4h9A0dsxUk9PVA)
+* [How to Make Company Shared Drive Scorecards](https://docs.google.com/document/d/1hK3NgCXFzKCpe9THmaWL7hVOpyK382VUEX3a08Zo8WI/edit)
+* [Individual Student Scorecard Template](https://docs.google.com/spreadsheets/d/1MPR806PMfvqzdJzrzPdo8r-63U7wdA8DCK8snBg3DA8/edit#gid=1971733224)
+* [Welcome to Mod 7 Repo, by Hector in FT](https://github.com/crespohector/welcome-to-mod-7)
 
 S3 Related Trackers:
 
@@ -58,7 +53,9 @@ Administrative Resources:
 
 ## Github pt-section-3-resources
 
-## Continued Learning (Udemy)
+## Continued Learning
+
+### Udemy
 
 * Modern React & Redux Course (RRv6, Redux Toolkit, Vite)
 https://appacademy.udemy.com/course/react-the-complete-guide-incl-redux/learn
