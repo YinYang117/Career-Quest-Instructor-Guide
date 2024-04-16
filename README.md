@@ -18,6 +18,8 @@ Join [part-time-career-quest](https://app-academy-internal.slack.com/archives/C0
 
 Join [pt-section3](https://app-academy-internal.slack.com/archives/C05RRSRNEAH) Slack channel
 
+Subscribe to the [Career Quest Calendar](https://calendar.google.com/calendar/u/0?cid=Y19xaWt0djFqa2RnM2xuNmJtb2NhNGlqcmVrNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 ## [Slack Canvas on pt-section3](https://app-academy-internal.slack.com/canvas/C05RRSRNEAH)
 
 The following is a copy of that list of resources (the non-outdated ones) 04/2024
@@ -26,10 +28,11 @@ The following is a copy of that list of resources (the non-outdated ones) 04/202
 
 #### Instruction Resources:
 
-* [PT Instructor Notes Github Repo](https://github.com/appacademy/pt-instructor-notes)
-* [Student Facing Repo](https://github.com/appacademy/pt-section-3-resources)
+* [PT Instructor Notes, all sections](https://github.com/appacademy/pt-instructor-notes)
+* [Student Facing Section 3 Repo](https://github.com/appacademy/pt-section-3-resources)
     * ^ Mostly empty template with no daily instructions, occasionally some related links / content.
     * Good for making your own notes as you go through with a cohort.
+    * Currently includes Python mod, which should be getting seperated from Capstone / Career Quest soon
 
 #### Capstone Resources / Aa Requirements:
 
@@ -46,8 +49,6 @@ The following is a copy of that list of resources (the non-outdated ones) 04/202
 #### Career Quest / Graduation:
 
 * [Graduation Procedures Doc](https://docs.google.com/document/d/1tDIvouPc-88gpLWk5PRjwsKoxyHqoyiJS35fLBGiLkY/edit#heading=h.8u72pso2uw06)
-* [Career Quest Procedures](https://docs.google.com/document/d/1w67eB8bWCgkpoeDiJPRPo-Uz5UygApHCHD0xyVTgNfU/edit)
-    * 
 * [CQ MVP](https://docs.google.com/document/d/1eElhjZQqazi92zh_NqZyQUb48qgruTz4mGXX2-A2IH8/edit?usp=sharing)
 * [CQ Tracker](https://docs.google.com/spreadsheets/d/1xp7yyUtKLfNgcYbs_KN6hkTUhkx23JCnXC9FeR8Rcvk/edit?usp=sharing)
 * [Mark R's RtG Sheet](https://docs.google.com/document/d/1GKxy4Sl5aRCkeSqMt12QzZ0pC3TcCwACm7k25fFRXqo/edit#heading=h.e9v578scxv05)
@@ -67,11 +68,3 @@ The following is a copy of that list of resources (the non-outdated ones) 04/202
 
 [Week 45 outline](https://github.com/appacademy/pt-instructor-notes/blob/main/3-section/45-week/structure.md)
 
-#### Continued Learning
-
-##### Udemy
-
-* [Modern React & Redux Course (RRv6, Redux Toolkit, Vite)](https://appacademy.udemy.com/course/react-the-complete-guide-incl-redux/learn)
-* [Docker Mastery: Foundations, Automated CI, GitHub Actions, Kubernetes](https://appacademy.udemy.com/course/docker-mastery/learn)
-* [Prep Course for AWS Foundational Certification](https://appacademy.udemy.com/course/aws-certified-cloud-practitioner-new)
-* [Advanced CSS & SASS](https://appacademy.udemy.com/course/advanced-css-and-sass/learn)
