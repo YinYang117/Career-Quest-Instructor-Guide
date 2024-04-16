@@ -12,32 +12,25 @@
 - Follow above Goals
 - Provide support and feedback for Students while they work on their projects.
 - Coordinate with the Placements team for lectures and assignments
+    - Someone from the Placements team will join you in class on most days for lecture and assigning material due dates
+        - IE: Resume, Personal Pitch, Cover Letter, Personal Page
+    - On days with no assignments make sure students make progress on their group projects, then capstones.
 - Track progress using the “greenlit” [tracker](https://docs.google.com/spreadsheets/d/1Tf3H7xyNvFi3A6vIgZx7YtIDfUaeEI5Y0kpaixMrPGM/edit#gid=1515017928) (may be outdated)
+- Give students your best feedback on their materials.
+- Students should reach out to the Placements team member for final reviews on their materials.
+    - This might change
+- Document both team and individual student progress.
+- Note any concerns or areas for improvement.
+- If students are clearly not working on their material, or if students miss deadlines, strike them.
 
-## Procedure
+### Material Due Dates
 
-### AI Week:
+Currently, there is not set due dates for materials
 
-Review the PT Instructor Notes repo for a detailed breakdown of Week 45: Week 45 Structure.
+This may change with Canvas, or other events
 
-### Other Weeks:
+Please add in due dates if they get permanently set
 
-Someone from the Placements team will join you in class on most days for lecture and assigning material due dates.
-
-On days with no assignments make sure students make progress on their group projects, then capstones.
-
-## Collaborate with the Placements Team:
-
-A member of the Placements team will come to class on most days and assign material for students consisting of items such as: Resume, Personal Pitch, Cover Letter, ect.
-The Placements Team is responsible for communicating when these items are due.  Our job is to remind students of the due dates, and assist students with turning in assignments.
-Students should “@” the Placements team member for final review, but we are able to offer our advice and feedback. 
-“Hi <student_name>, I’m happy to review your resume, but we’ll ultimately defer to <placement_coach> for the final input.”
-“Your resume looks good, but I think X, Y, and Z could be more concise, and are aligned with the readings on App Academy Open and what your placements coach mentioned during lecture.”
-Progress Tracking:
-Create a copy of the “greenlit” tracker and maintain it for your cohort: Greenlit Tracker Folder.
-Document both team and individual student progress. Note any concerns or areas for improvement.
-Students should be actively working on getting their team projects greenlit, or completing their Career Quest materials.
-If students are clearly not working on their material, notify your Section Lead.  If we inform students that they need to have materials completed by “X” day, but they miss deadlines we can consider issuing strikes.  Furthermore, for serious cases of non-cooperation, we will escalate matters to Mark, Caleb, or Anna.
 Feedback:
 Complete and provide feedback for Group Projects using the examples provided in the Google Drive folder.
 Guide the students on how to implement the feedback effectively.

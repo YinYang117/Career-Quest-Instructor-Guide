@@ -20,6 +20,10 @@ Join [pt-section3](https://app-academy-internal.slack.com/archives/C05RRSRNEAH) 
 
 Subscribe to the [Career Quest Calendar](https://calendar.google.com/calendar/u/0?cid=Y19xaWt0djFqa2RnM2xuNmJtb2NhNGlqcmVrNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
+Read through [Career Quest Procedures](./CareerQuestProcedures.md)
+
+Open the [Career Quest Google Drive](https://drive.google.com/drive/folders/1WIkgtkoD2oFASfIUgmkUDV16qGfafojw) and make a copy of the trackers for your cohort
+
 ## [Slack Canvas on pt-section3](https://app-academy-internal.slack.com/canvas/C05RRSRNEAH)
 
 The following is a copy of that list of resources (the non-outdated ones) 04/2024
@@ -29,6 +33,8 @@ The following is a copy of that list of resources (the non-outdated ones) 04/202
 #### Instruction Resources:
 
 * [PT Instructor Notes, all sections](https://github.com/appacademy/pt-instructor-notes)
+    * Contains notes and resources
+    * Contains notes on the [new AI week 45](https://github.com/appacademy/pt-instructor-notes/blob/main/3-section/45-week/structure.md)
 * [Student Facing Section 3 Repo](https://github.com/appacademy/pt-section-3-resources)
     * ^ Mostly empty template with no daily instructions, occasionally some related links / content.
     * Good for making your own notes as you go through with a cohort.
