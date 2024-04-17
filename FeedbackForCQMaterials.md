@@ -2,6 +2,32 @@
 
 [Example doc of thorough feedback](https://docs.google.com/document/d/1TYnN0Xk1X9JQxPGe-aafiRlU_Ts6vjAR0I7nircIWhI/edit)
 
+- Group Project:
+   - is repo good?
+   - is the site live?
+   - do they have good commit messages?
+   - can a demo user delete all the seeder content, and modify their own profiles (dont want demo user bio to become inappropriate)
+   - are there any css bugs
+   - check for padding/marin spacing
+   - check for default buttons
+   - add an about footer at the bottom with a link to each students' github/personal portfolio
+   - is there a 404 page?
+   - do they have at least 4 REALLY well done features?
+   - do they have a plan to add at least 2 more features?
+
+- Capstone:
+    - is repo good?
+    - is the site live?
+    - do they have good commit messages?
+    - can a demo user delete all the seeder content, and modify their own profiles (dont want demo user bio to become inappropriate)
+    - are there any css bugs
+    - check for padding/marin spacing
+    - check for default buttons
+    - add an about footer at the bottom with a link students's github/personal portfolio, and all other projects
+    - is there a 404 page?
+    - do they have at least 4 really well done features?
+    - do they have a plan to add at least 3 more features?
+
 - Resume:
     - name
     - email

@@ -2,9 +2,15 @@
 
 Link to [Week 45 on Canvas](https://appacademy.instructure.com/courses/337/modules#context_module_item_59659)
 
+This file was created because the new AI lecture moved things around in here.
+
+This entire doc might not be necessary anymore with Canvas, and if so, should be deleted.
+
 ## Monday
 
 On Canvas, there's only ReCap Accademy, no reading, no links
+
+#### Older Notes:
 
 - [Local Greenlit Lecture](./Greenlit.md) 10 Minutes
 - [AI Lecture Slideshow](https://docs.google.com/presentation/d/1dx58N4hnMS0oXruvShPnLlzDLI_Xho8nde6WWpFeQj8/edit#slide=id.g2577b611152_0_172)
@@ -35,6 +41,10 @@ For example: If I have it solve the adjacent list problem I should specify to us
 
 ## Tuesday
 
+On Canvas, there's only ReCap Accademy, no reading, no links
+
+#### Older Notes:
+
 - [AI lecture part 2: Security and ethics](https://docs.google.com/presentation/d/1q7XCiGbwlIUSHBuDTk0_bb4vrhUFUSdYz3XRMSrQnq8/edit?pli=1#slide=id.g20a5ff4faf7_0_0)
     - discuss how chatgpt and a lot of these companies trained their code on open source material which has led to litigation
     - "Imaging you made some cool code and shared it for everyone for free, but then these massive companies like google and amazon which are the main ones that can afford to keep an LLM, decide to train their model on your free code and then they make a profit of it."
@@ -51,9 +61,17 @@ For example: If I have it solve the adjacent list problem I should specify to us
 
 Canvas has [Road to Greenlit content](https://appacademy.instructure.com/courses/337/modules#context_module_item_59661)
 
-#### Old notes:
+## Thursday
 
-- Administer the benchmark 1
+Canvas has more AI lecture content scheduled on this day
+
+## Saturday
+
+Student Benchmark test
+
+#### Older Wednesday notes:
+
+- Administer the benchmark
     - They CAN NOT USE AI
     - This is to test their strengths/weaknesses
 - Make sure to ask if anyone would rather do the Python DSA portion
@@ -62,50 +80,10 @@ Canvas has [Road to Greenlit content](https://appacademy.instructure.com/courses
 - you can pull the grading template for benchmark from here:
 - after all students are done being graded (after thursday) they will get a DM of their final score
 
+- While students work on the benchmark read [Feedback for Career Quest Materials](./CareerQuestProcedures.md)
 
-- While students work on the benchmark, instructor should begin reviewing the following items and making notes:
-    - Group project
-        - is repo good?
-        - is the site live?
-        - do they have good commit messages?
-        - can a demo user delete all the seeder content, and modify their own profiles (dont want demo user bio to become inappropriate)
-        - are there any css bugs
-        - check for padding/marin spacing
-        - check for default buttons \
-        - add an about footer at the bottom with a link to each students' github/personal portfolio
-        - is there a 404 page?
-        - do they have at least 4 REALLY well done features?
-        - do they have a plan to add at least 2 more features?
-    - Capstone:
-        - is repo good?
-        - is the site live?
-        - do they have good commit messages?
-        - can a demo user delete all the seeder content, and modify their own profiles (dont want demo user bio to become inappropriate)
-        - are there any css bugs
-        - check for padding/marin spacing
-        - check for default buttons \
-        - add an about footer at the bottom with a link students's github/personal portfolio, and all other projects
-        - is there a 404 page?
-        - do they have at least 4 really well done features?
-        - do they have a plan to add at least 3 more features?
+After Students finish they can work on their Group project to get it [Greenlit]((https://appacademy.instructure.com/courses/337/modules#context_module_item_59661))
 
-- Example of a student Anthony Bronca did a review for. This student completed all points and became greenlit on the day of graduation: https://docs.google.com/document/d/1TYnN0Xk1X9JQxPGe-aafiRlU_Ts6vjAR0I7nircIWhI/edit?usp=sharing
+They Should NOT work on capstone until after the Group projects are Greenlit
 
-## Thursday
-
-administer the benchmark 2. Make sure all students submit it. They CAN NOT USE AI. This is for their own benefit to test their strengths/weaknesses
-Students should receive a DM of their score as follows:
-
-" Your final benchmark score is: xyz%
-
-Areas to Improve: - React - DSA - Vanilla.js
-
-I recommend going back to the mod 3 content during job search to refresh on DOM and Promises. I also think you would benefit from attending additional workshops in these areas during your job search. Especially with regard to DSA, you may be benefit from attending those workshops on Tuesday and Thursday to increase the likely hood of passing your real technical assessment. "
-
-After students finish React and DSA test on this date, they can move on to working on their capstone. This is the last day they will have some free time to work on it until their group project looks greenlit.
-
-## Saturday
-
-Group project
-Showcase CRON Jon
-You may also consider showcasing using google sheets to do this (super easy)
+Showcase CRON Job, use google sheets to do this
