@@ -14,6 +14,7 @@
    - is there a 404 page?
    - do you have at least 4 REALLY well done features?
    - do you have a plan to add another 1 - 2 features?
+   - [Greenlit Guidelines](ProjectGreenlitGuide.md)
 
 - Resume:
     - name

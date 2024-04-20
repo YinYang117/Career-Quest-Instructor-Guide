@@ -2,19 +2,18 @@
 
 Being Greenlit means having your projects at a competitive level of polish
 
+- [Example project readme Link](https://github.com/AnthonyBronca/Pixtagram)
+
+- Remove the default create-react-app readme, adding in all the readme polish
 - Scorecard has all Greenlit requirements marked “Yes”
 - Scorecards bug reports have been fixed
 - Front-end and back-end validations working
 - Refactor and Reorganize code as needed to create cleaner, more organized, modular code
 - Add screenshots to readme
 - Remove all the a/a skeleton code
-
-- [Example project readme Link](https://github.com/AnthonyBronca/Pixtagram)
-
 - No public facing db's on github
 - No public facing API keys or .DS_Stores
 - Have an .env, and your .env.example doesn't have real data in it
-- Remove the default create-react-app readme, adding in all the readme polish
 - Continue to add more features
 - Fully Styled:
 
