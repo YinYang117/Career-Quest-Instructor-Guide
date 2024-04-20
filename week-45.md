@@ -1,10 +1,14 @@
 # Schedule for the Week
 
+This file was created because the new AI lecture moved things around in Aaopen.
+
+NOTE: This file might not be necessary anymore with Canvas, and if so, should be deleted.
+
 Link to [Week 45 on Canvas](https://appacademy.instructure.com/courses/337/modules#context_module_item_59659)
 
-This file was created because the new AI lecture moved things around in here.
 
-This entire doc might not be necessary anymore with Canvas, and if so, should be deleted.
+
+**Schedule notes:**
 
 ## Monday
 

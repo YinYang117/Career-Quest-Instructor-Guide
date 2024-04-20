@@ -2,37 +2,24 @@
 
 [Example doc of thorough feedback](https://docs.google.com/document/d/1TYnN0Xk1X9JQxPGe-aafiRlU_Ts6vjAR0I7nircIWhI/edit)
 
-- Group Project:
+- Projects:
    - is repo good?
    - is the site live?
-   - do they have good commit messages?
+   - do you have good commit messages?
    - can a demo user delete all the seeder content, and modify their own profiles (dont want demo user bio to become inappropriate)
    - are there any css bugs
    - check for padding/marin spacing
    - check for default buttons
    - add an about footer at the bottom with a link to each students' github/personal portfolio
    - is there a 404 page?
-   - do they have at least 4 REALLY well done features?
-   - do they have a plan to add at least 2 more features?
-
-- Capstone:
-    - is repo good?
-    - is the site live?
-    - do they have good commit messages?
-    - can a demo user delete all the seeder content, and modify their own profiles (dont want demo user bio to become inappropriate)
-    - are there any css bugs
-    - check for padding/marin spacing
-    - check for default buttons
-    - add an about footer at the bottom with a link students's github/personal portfolio, and all other projects
-    - is there a 404 page?
-    - do they have at least 4 really well done features?
-    - do they have a plan to add at least 3 more features?
+   - do you have at least 4 REALLY well done features?
+   - do you have a plan to add another 1 - 2 features?
 
 - Resume:
     - name
     - email
     - technologies
-    - 3 - 4 really good bullet points for each project they want checked by employers (capstone, group project minimum)
+    - 3 - 4 really good bullet points for each project you want checked by employers (capstone, group project minimum)
     - any work history
     - education, include a/A
     - skills
@@ -40,10 +27,10 @@
     - Try to get it on 1 page, and fill the full page
 
 - github:
-    - custom readme
+    - custom readme that includes a short introduction and bio
     - active commits in their garden
-    - pinned projects
-    - no public repos that are for student stuff (like mod 1 content)
+    - 2 pinned projects
+    - no public repos that are for student stuff (like starters and past assignments)
     - professional profile pic
     - professional username
 
@@ -68,7 +55,7 @@
     - professional header
     - professional about section
     - professional title section
-    - make one post about their time at a/A and the things they have learned over the course of the year
+    - make one post about their time at a/A and the things you have learned over the course of the year
     - pin all their projects at the top. Each project should have a preview image
     - add at least 20 technical skills
     - get 1 Letter of recommendation from a group mate
