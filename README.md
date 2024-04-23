@@ -65,13 +65,16 @@ The following is a copy of that list of resources (the non-outdated ones) from [
     * Might consolidate the S3 trackers with the company shared drive.
     * We can link to the drive in our trackers to avoid duplicate work.
 
-### Career Quest / Graduation:
+### Career Quest:
 
-* [Graduation Procedures Doc](https://docs.google.com/document/d/1tDIvouPc-88gpLWk5PRjwsKoxyHqoyiJS35fLBGiLkY/edit#heading=h.8u72pso2uw06)
+
 * [CQ MVP](https://docs.google.com/document/d/1eElhjZQqazi92zh_NqZyQUb48qgruTz4mGXX2-A2IH8/edit?usp=sharing)
 * [CQ Tracker](https://docs.google.com/spreadsheets/d/1xp7yyUtKLfNgcYbs_KN6hkTUhkx23JCnXC9FeR8Rcvk/edit?usp=sharing)
 * [Mark R's RtG Sheet](https://docs.google.com/document/d/1GKxy4Sl5aRCkeSqMt12QzZ0pC3TcCwACm7k25fFRXqo/edit#heading=h.e9v578scxv05)
 
+### Graduation:
+
+* Local [Graduation Readme](Graduation.md)
 ### Administrative Resources:
 
 * [2024 Teaching Schedule](https://docs.google.com/spreadsheets/d/1E1TUWXALQyzsKCmr7EGtkG5xo7daARZymQTSNSJh0Mk/edit#gid=1069372566)
