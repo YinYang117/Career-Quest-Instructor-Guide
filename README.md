@@ -32,8 +32,6 @@ Go to Discord, in the AppAcademy server, find yourself to right click and open t
 
 Open the [Career Quest Google Drive](https://drive.google.com/drive/folders/1WIkgtkoD2oFASfIUgmkUDV16qGfafojw) and [make a copy](#tracking) of the trackers for your cohort
 
-[[My Responses to Tony's Work#Identity|My Identity]]
-
 ## Resources and Links
 
 The following is a copy of that list of resources (the non-outdated ones) from [pt-section3 slack canvas](https://app-academy-internal.slack.com/canvas/C05RRSRNEAH) 04/2024
