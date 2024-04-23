@@ -1,7 +1,8 @@
 # Graduation Procedures
 
 ## Monday of graduation week:
-Post the following in [part-time-career-quest](https://app-academy-internal.slack.com/archives/C03TEF87M9B):
+
+### Post the following in [part-time-career-quest](https://app-academy-internal.slack.com/archives/C03TEF87M9B):
 
 ```.md
 Hello!
@@ -27,7 +28,8 @@ PST
 ```
 
 
-## Thursday of graduation week: Make 2 announcements:
+## Thursday of graduation week: 
+### Make 2 announcements:
 1. Post a notice in the instructors-online-part-time-program channel:
 
 
@@ -63,7 +65,7 @@ Example from “2022-11-07-pt-questions” channel:
 
 
 
-On Graduation Day
+## On Graduation Day
 
 Someone from Placements will present “Moving Forward” typically at the beginning of class.
 This takes about 30 mins.
