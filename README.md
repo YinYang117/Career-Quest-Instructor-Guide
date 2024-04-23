@@ -12,17 +12,22 @@ Spend the time reading this and you'll be set to take over Career Quest in Mod 7
 - This collection is being created 04/2024 with the last cohort to use Aaopen graduates
 - Future cohorts will be using Canvas. Updates might be needed from this change
 
-## Your To Do
+## Your To-Do
 
 Join [part-time-career-quest](https://app-academy-internal.slack.com/archives/C03TEF87M9B) Slack channel
+- The Career Quest staff like Allie, Anna, and Mark communicate here
 
 Join [pt-section3](https://app-academy-internal.slack.com/archives/C05RRSRNEAH) Slack channel
+- Instructors and TA's in Mod7
 
 Subscribe to the [Career Quest Calendar](https://calendar.google.com/calendar/u/0?cid=Y19xaWt0djFqa2RnM2xuNmJtb2NhNGlqcmVrNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 Familiarize yourself with [Mod 7 on Canvas](https://appacademy.instructure.com/courses/337)
 
-Read through the local [Career Quest Procedures](./CareerQuestProcedures.md)
+Read through this local [Career Quest Procedures](./CareerQuestProcedures.md)
+
+Go to Discord, in the AppAcademy server, find yourself to right click and open the Rolls menu
+- Add yourself to the Mod 7, Mod 7 Remastery (*almost* not even needed), and the current cohort channel
 
 Open the [Career Quest Google Drive](https://drive.google.com/drive/folders/1WIkgtkoD2oFASfIUgmkUDV16qGfafojw) and make a copy of the trackers for your cohort.
 - ^ This might be outdated
